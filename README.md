@@ -17,7 +17,7 @@ The Sales Analytics report aims to provide a comprehensive overview of key metri
 
 Financial reports are important tools for analyzing economic trends, creating solid financial plans, and setting long-term business goals. They provide a clear foundation for budgeting and allow for useful comparisons with industry peers. These reports also help businesses stay flexible in adjusting to changing global needs. Below is a financial summary tailored for AtliQ Hardware:
 
-1. **Customer Sales Performance Overview**: This report outlines the total revenue generated for AtliQ hardware.
+1. **Customer Sales Performance Overview**: This report outlines the total revenue generated for AtliQ hardware. [Customer Net Sales Performance](https://github.com/vipulkachave/AtliQ_Sales-and-Finance-Analytics-/blob/main/Customer%20Net%20sales%20Performance%20for%20India.pdf)
 2. **Customer Sales Performance for Indian Market**: This report outlines the total revenue generated for AtliQ hardware specifically in India.
 3. **Market Performance vs. Sales Goals**: This report compares sales results with the targets have set by AtliQ and the current market situation.
 4. **Yearly - Profit and Loss statements**: This report summarizes financial performance each fiscal year, highlighting areas of profit and loss.
