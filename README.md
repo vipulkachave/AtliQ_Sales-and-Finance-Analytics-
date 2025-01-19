@@ -38,20 +38,30 @@ Financial reports are important tools for analyzing economic trends, creating so
 ★ Knowledge of the ETL process (Extract, Transform, Load).
 
 ★ Using DAX to create calculated columns.
+
 ★ Able to create date table using Power Query.
+
 ★ Experience in calculating fiscal months and quarters from standard financial year.
+
 ★ Building data modelling with Power Pivot.
+
 ★ Inserted data to an existing data model.
 
 ## Soft Skills
 ★ Domain understanding of Sales & Finance Reports.
+
 ★ Designing reports according to the user’s needs.
+
 ★ Improving report performance through fine-tuning.
 
 ## Tools Used
 ★ Power Query for cleaning and transforming data
+
 ★ Pivot Tables for summarizing data
+
 ★ Power Pivot for creating data models
+
 ★ DAX Measures for calculated columns
+
 ★ Conditional Formatting to highlight important data for stakeholders.
 
