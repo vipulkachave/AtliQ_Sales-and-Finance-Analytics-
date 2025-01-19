@@ -6,15 +6,12 @@
 
 The Sales Analytics report aims to provide a comprehensive overview of key metrics that empower us to make informed business decisions. This report offers critical insights to guide our strategies effectively. Below is a summary of the Sales Analytics Report tailored for Atliq Hardware:
 
-1. **Top 10 Products with Sales Growth** : Analyze the products that experienced the highest sales growth between 2020 and 2021.
- 
-2. **Division Sales Overview**: Present a comparison of revenue generated in 2020 and 2021, along with the percentage growth in sales.
+1. **Top 5 Revenue-Generating Countries in 2021**: List the five countries that contributed the highest revenue in 2021.
+2. **Top and Bottom 5 Products by Sales Volume**: Highlight the five best-selling products and the five least-sold products in terms of quantity.
+3. **Top 10 Products with Sales Growth** : Analyze the products that experienced the highest sales growth between 2020 and 2021.
+4. **Division Sales Overview**: Present a comparison of revenue generated in 2020 and 2021, along with the percentage growth in sales.
+5. **New Product Launches in 2021**: Identify the new products introduced by Atliq Hardware during 2021.
 
-3. **Top and Bottom 5 Products by Sales Volume**: Highlight the five best-selling products and the five least-sold products in terms of quantity.
-
-4. **New Product Launches in 2021**: Identify the new products introduced by Atliq Hardware during 2021.
-
-5. **Top 5 Revenue-Generating Countries in 2021**: List the five countries that contributed the highest revenue in 2021.
 
 
 ## Financial Analysis Report
