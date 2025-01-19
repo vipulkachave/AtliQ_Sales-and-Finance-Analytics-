@@ -36,6 +36,7 @@ Financial reports are important tools for analyzing economic trends, creating so
 
 ## Technical Skills Acquired:
 ★ Knowledge of the ETL process (Extract, Transform, Load).
+
 ★ Using DAX to create calculated columns.
 ★ Able to create date table using Power Query.
 ★ Experience in calculating fiscal months and quarters from standard financial year.
