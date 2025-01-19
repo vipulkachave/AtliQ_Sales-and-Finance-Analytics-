@@ -1,6 +1,11 @@
 # Sales and Finance Analytics
 
 ### AtliQ Hardware 
+AtliQ Hardware, a global supplier of hardware products like PCs, peripherals, and network devices, tasked me with creating sales and financial reports to evaluate the company’s performance over the years 2019, 2020, and 2021. AtliQ Hardware offers a broad range of products, including personal computers, mice, printers, and various other peripherals, catering to a wide customer base.
+In addition to retailing these products, AtliQ also manufactures them. To make their products available to a global audience, they rely on intermediaries. These include major physical retailers such as Croma and Best Buy, as well as popular online platforms like Flipkart and Amazon.
+
+
+
 
 ## Sales Analysis Report
 
@@ -19,16 +24,29 @@ The Sales Analytics report aims to provide a comprehensive overview of key metri
 Financial reports are important tools for analyzing economic trends, creating solid financial plans, and setting long-term business goals. They provide a clear foundation for budgeting and allow for useful comparisons with industry peers. These reports also help businesses stay flexible in adjusting to changing global needs. Below is a financial summary tailored for AtliQ Hardware:
 
 1. **Customer Sales Performance Overview**: This report outlines the total revenue generated for AtliQ hardware.
-
-2. **Market Performance vs. Sales Goals**: This report compares our sales results with the targets we have set and the current market situation.
-
-3. **Annual Profit and Loss Overview**: This report summarizes our financial performance each fiscal year, highlighting areas of profit and loss.
-
+2. **Market Performance vs. Sales Goals**: This report compares sales results with the targets have set by AtliQ and the current market situation.
+3. **Annual Profit and Loss statements**: This report summarizes financial performance each fiscal year, highlighting areas of profit and loss.
 4. **Quarterly Profit and Loss Comparison**: This report compares financial results from each quarter, showing performance trends over time.
+5. **Quarterly Gross Margin by Region**: This report shows profitability in different geographic Region.
+6. **Profit and Loss by Market Segment**: This report breaks down the financial performance for each market where AtliQ has business.
 
-5. **Profit and Loss by Market Segment**: This report breaks down the financial performance for each market where we operate.
+## Technical Skills Acquired:
+★ Knowledge of the ETL process (Extract, Transform, Load).
+★ Using DAX to create calculated columns.
+★ Able to create date table using Power Query.
+★ Experience in calculating fiscal months and quarters.
+★ Building data modelling with Power Pivot.
+★ Inserted data to an existing data model.
 
-6. **Quarterly Gross Margin by Region**: This report shows our profitability in different geographic locations.
+## Soft Skills
+★ Domain understanding of Sales & Finance Reports.
+★ Designing reports according to the user’s needs.
+★ Improving report performance through fine-tuning.
 
-
+## Tools Used
+★ Power Query for cleaning and transforming data
+★ Pivot Tables for summarizing data
+★ Power Pivot for creating data models
+★ DAX Measures for calculated columns
+★ Conditional Formatting to highlight important data for stakeholders.
 
